@@ -9,9 +9,16 @@ Kippo will listen on port 2222
 Usage
 -----
 
-    docker run -d -p 2222:2222 tomdesinto/kippo
+    docker run -d -p 2222:2222 amorris/kippo
 
+
+Credit
+_____
+
+Credit to Thomas Leveil for writing the original code and config files I based this on
 
 
 
 [1]: https://github.com/micheloosterhof/kippo
+
+

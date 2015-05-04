@@ -1,7 +1,7 @@
 .PHONY: build shell run
 
 SSH_PORT := 2222
-DOCKER_IMAGE := tomdesinto/kippo
+DOCKER_IMAGE := amorris/kippo
 
 build:
 	docker build --rm --tag "$(DOCKER_IMAGE)" .
