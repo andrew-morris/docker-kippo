@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Thomas Léveil <thomasleveil@gmail.com>
+MAINTAINER Andrew Morris <morr.drew@gmail.com>
 
 RUN apt-get update && apt-get -q -y install python-dev openssl python-openssl python-pyasn1 python-twisted subversion
 
