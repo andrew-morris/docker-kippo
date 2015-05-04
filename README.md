@@ -1,7 +1,7 @@
 docker-kippo
 ============
 
-Dockerfile building an image with [kippo][1] ready to go
+Dockerfile building an image with Michel Oosterhof's branch of [kippo][1] ready to go
 
 Kippo will listen on port 2222
 
@@ -14,4 +14,4 @@ Usage
 
 
 
-[1]: https://github.com/desaster/kippo
+[1]: https://github.com/micheloosterhof/kippo
